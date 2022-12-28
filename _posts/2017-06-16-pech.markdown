@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "2017-06-16"
+---
+
+![](/assets/2017-06-16.jpg)
+
+"The rabbit hole knows no end" -- zwykli mawiać internetowi Anglosasi. Ale dzisiaj nie o królikach, tylko o innych zwierzątkach...
+
+Przedstawione zdjęcie to piękna, przemyślana kompozycja czerpiąca z bogatej tradycji europejskich przesądów. Trudno policzyć ile lat nieszczęścia ściągnął na siebie uwieczniony na fotografii mężczyzna, za to z pewnością ściągnął na siebie wirtualną sławę -- ujęcie samo w sobie nie zrobiło jakieś wielkiej furory, stało się jednak bardzo powszechnym materiałem w wielu edycjach językowych demotywatorów.
+
+Reżyserem i pierwszoplanowym aktorem zdjęcia jest użytkownik Reddita o pseudonimie MarkDG. Wieloletni i aktywny działacz, a nawet moderator, jednak to właśnie ta fotografia, którą opublikował w 2015 (czyli całkiem wcześnie) stała się jego najpopularniejszym dziełem.
+
+I w sumie na tym opowieść o tym zdjęciu można by zakończyć. Może jeszcze wart zaznaczenia byłby fakt, że publikacja miała miejsce 19 lipca, a data na kalendarzu wskazuje 13 listopada (piątek), co było źródłem paru ironicznych komentarzy na temat podróży w czasie. Jest jednak jedna rzecz, która powinna budzić podziw. Jest nią kot.
+
+Każdy, kto próbował zrobić pozowane zdjęcie z kotem, wie, że sztuka to niełatwa. Nic więc dziwnego, że perfekcyjnie zgrana parada czarnego pupila szczególnie przyciąga uwagę niektórych. Może nawet za bardzo przyciąga. Czyżby delikatny aliasing na granicy kota i podłogi? Cień jakoś odcieniem nie pasuje do tego, który rzuca dom. No i jakoś te łapy się do tego nieszczęsnego cienia nie układają. No i na dodatek ten sam kot, w tej samej pozycji występuje w grze "No Luca no". Przypadek?
+
+Przyparty do ściany w komentarzach Mark przyznaje się do fotomontażu (ku zaskoczeniu sporej grupy odbiorców). Wracając do gry, wydana w 2009 na Xboksa produkcja indie ze studia Silver Dollar Games polega na odganianiu ręką tegoż właśnie kota od miski z płatkami na mleku. Tak, w zasadzie to cała fabuła tej jednoprzyciskowej gry. Oczywiście Luca to wytrwała kotka i po odgonieniu uparcie wraca, co daje możliwość nabijania highscore'a w praktyczną nieskończoność.
+
+Jest jednak jeden szkopuł. Mechanizm gry pozwala na ukazanie postury kotki tylko do połowy. Wobec tego Mark nie mógł wziąć tego zdjęcia z gry, lecz z jakiegoś innego źródła. Przeszukiwanie sieci algorytmami do grafik daje marne efekty -- żadnego stocka, jedynie usunięta grafika z DeviantArtu, oprócz tego TinEye (jedyny rozsądny darmowy program do wyszukiwania grafik w sieci oprócz Google) podaje od 0 do 3 mirrorów, w zależności, jaką wersję poda się za wyjściową. Ale jeden mirror jest szczególnie ciekawy. Ma w swojej długiej nazwie frazę "iStock" i numery, co wskazuje, że może pochodzić właśnie z tego serwisu. Przepisując nazwę obrazka do wyszukiwarka iStocka, otrzymujemy serię zdjęć poszukiwanego kota. Jak widać, odbicie lustrzane (w oryginalnej wersji kot idzie w prawą stronę) oraz ogromny znak wodny potrafią całkowicie ogłupić wyszukiwarki internetowe.
+
+Jednak iStock to jedynie platforma do sprzedaży (córka GettyImages), a kto jest autorem? Creditsy idą do użytkownika o mało mówiącym nicku "GlobalP" i raczej nie chodzi o firmę marketingową notowaną na amerykańskiej giełdzie. O ile serwisy stockowe jako tako dbają o majątkowe prawa autorskie, o tyle osobowe prawa nie cieszą się u nich szacunkiem. GlobalP niewiele mówi, na szczęście właściciel konta był skłonny opublikować awatar. Oczywiście serwisy stockowe nawet awatary użytkowników zabezpieczają przed ściąganiem jako obrazki, ale z pomocą przychodzi funkcja "Zbadaj element". Wyszukując mirrory szarego portretu enigmatycznego GlobalP natrafić można o na forum internetowe dla fotografów stockowych, gdzie takim zdjęciem sygnuje się pochodzący z Brukseli użytkownik "Iseelee", którego profil linkuje do strony "Life on White.com".
+
+Na stronie tej, zawierającej kilkadziesiąt tysięcy stockowych zdjęć stworzeń różnej maści znaleźć można zdjęcie omawianego czarnego kota. Z bardzo ważną adnotacją -- fotografia jest częścią albumu, przedstawiające zwierzęta, którymi opiekuje się Mélanie Poux.
+
+Mélanie jest francuską trenerką i opiekunką zwierząt. Prowadzi hodowlę wielu gatunków, które udostępnia do fotografowania i kręcenia potrzebującym zwierząt reżyserom. Od lwów i panter poprzez papugi na czarnych kotach kończąc. Trzeba przyznać, całkiem ciekawy pomysł na karierę zawodową.
+
+I tak po nitce do kłębka dojść można prawie każdą grafikę. Mark nadal udziela się w sieci, chociaż sukcesu omawianego zdjęcia na razie nie powtórzył. Silver Dollar Games po sukcesie innej gry "One Finger Death Punch" pracuje nad kolejnym projektem. Life on White.com ma się dobrze, podobnie jak podopieczni Mélanie Poux, którzy nadaj pozują do sesji fotograficznych.
+
+Bo taki jest Internet, możesz być z Francji, jednego dnia wyjadać mleko ze śniadania, a drugiego przynosić pecha.
+
+-------
+* [Oryginalny wątek ze zdjęciem na Reddicie](https://www.reddit.com/r/pics/comments/3dulty/make_your_own_luck_motherfuckers/)
+* [Rozgrywka "No Luca no" na YouTubie](https://www.youtube.com/watch?v=ywN-NfgNsUI)
+* [Profil na Facebooku Silver Dollar Games](https://www.facebook.com/SilverDollarGames/)
+* [Różne ujęcia omawianego kota na stronie Life on White.com](http://www.lifeonwhite.com/index.php?a=showImage&imgid=5053)
+* [Strona Mélanie Poux](https://www.melaniepoux.com/)

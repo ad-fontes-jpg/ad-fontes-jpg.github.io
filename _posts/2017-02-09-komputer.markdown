@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "2017-02-09"
+---
+
+![](/assets/2017-02-09.jpg)
+
+Środowiska, w których powstaje internetowy kontent, można podzielić na kilka grup. Kilka z nich, jak amatorzy fotomontaży, fotoreporterzy czy freelancerzy od reklamy opisywane są regularnie i w zasadzie to grupy tworzące większą część popularnego, graficznego Internetu. Lecz jest jeszcze jedna grupa, liczna i tworząca całkiem sporo, acz relatywnie słabo rozpropagowana. Ta grupa to studenci kierunków artystycznych.
+
+Wciąż istotnym problemem jest dla sieci jest transfer wytworzonej już kreatywnej i jakkolwiek przydatnej twórczości w świat wirtualny. Ludzie chętnie wrzucą do wglądu wszystkim w Internecie zdjęcie swojego obiadu albo informacją o złamaniu nogi, ale nie pomyślą, że można by było zarzucić dla potomnych np. prezentację naukową wykonaną na studia. Nielicznym wyjątkiem są uczniowie szkół artystycznych, głównie animacji komputerowych, ale także wzornictwa, filmowcy i wszelkiej maści rysownicy. Takim właśnie niesamolubnym studentem był Joe Malina.
+
+W 2006 roku, kiedy Joe kończył Royal Collage of Art na kierunku Interaction Design, postanowił podzielić się ze światem swoją pracą dyplomową. A był nią projekt "Design for computer obessive". Jednym z zaprojektowanych przez Malia gadżetów była bluza w zestawie z pokrowcem na monitor, pozwalająca skutecznie odgrodzić się od świata zewnętrznego i pilnie strzec tajemnicy działań przed monitorem. Wbrew pozorom w zamyśle nie miał być to performance, a zestaw narzędzi wspomagających terapię uzależnieniową. Powstała również wersja przenośna w formie szalika, który w razie potrzeby może posłużyć jako tuba na smartfona czy konsolę. Brak informacji o zastosowaniu komercyjnym.
+
+Joe od początku swojej kariery zafascynowany był technologiami cyfrowymi. Po ukończeniu studiów pracował jako designer dla m.in. KPMG, Nokii, Berga, aż dzisiaj projektuje dla Apple. Jego studencki projekt stał się najbardziej wiralny (do dzisiaj grafika ma przeszło 500 mirrorów), ale to nie cały wkład Malia w działalnosć internetową. Jest jednym z inicjatorów projektu "The play coalition", zrzeszającego twórców w zamyśle małych, prostych i przydatnych urządzeń. Współpracował także z innymi inicjatywami promocji twórców internetowych, które jednak obecnie nie prowadzą już działalności.
+
+Projekt Joe Malia został opublikowany na stronie uczelni. Do dzisiaj można na niej oglądnąć wszystkie pomysłowe prace alumnów, począwszy od rocznika 2004-2006, czyli tego, do którego właśnie należał Joe.
+
+-------
+* [Strona na LinkedIn Joe Malia](https://www.linkedin.com/in/joemalia)
+* [Strona RCA, prezentująca studenckie projekty Joa Malia](http://design-interactions2007-2014.rca.ac.uk/joe-malia/)

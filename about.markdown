@@ -4,6 +4,8 @@ title: O stronie
 permalink: /about/
 ---
 
+![](/assets/ad-fontes.png)
+
 Ad fontes.JPG to archiwalny projekt anonimowego twórcy, który opisywał źródła i okoliczności powstania najpopularniejszych grafik Internetu.
 
 Ta strona nie jest i nie będzie rozwijana.

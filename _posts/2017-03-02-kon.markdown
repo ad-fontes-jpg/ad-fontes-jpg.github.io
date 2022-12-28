@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "2017-03-02"
+---
+
+![](/assets/2017-03-02.jpg)
+
+To bodaj jedno z ciekawszych śledztw, jakie przyszło mi przeprowadzić.
+
+Słowem wstępu -- żeby w Internecie zyskać masową popularność należy być śmiesznym albo strasznym. Najlepiej jednym i drugim na raz. Fotografia przedstawiająca patrzącego zza firan konia na piętrze bawi swoją absurdalnością i budzi niepokój swoją "creepy" koncepcją. Jaka historia stoi za tym zdjęciem?
+
+Zdjęcie zostało rozpowszechnione na przełomie 2010 i 2011 roku, kiedy to na amerykańskim Reddicie powstawały "memy", polegające na dodawaniu do odpowiednich grafik napisu "SOON". Do pokazanego zdjęcia podpis pasował jak ulał. Autor pierwotnego zdjęcia jest trudny do odnalezienia, jednak w Internecie można znaleźć wiele innych fotografii przedstawiających tę samą scenę -- biały koń patrzący przez okno, w ewidentnie tym samym budynku. Więc to nie fotomontaż, ani urywek z jakiegoś filmu -- bliższe oględziny innych ujęć ukazują, że biały koń nie jest koniem, lecz końską statuą.
+
+O ile wersję z prowadzoną przez kogoś stadniną na piętrze można obalić, o tyle rodzi się kolejne pytanie -- kto normalny stawia przed oknem figurę konia? Przeglądając liczne komentarze na wielu forach, można natrafić na nikłe acz powtarzające się informacje, że przejeżdżający przez USA ludzie widzieli tę scenerię na żywo. We wszystkich opowieściach powtarza się jedna nazwa -- Galena, Illinois. Faktyczna, mała acz stara mieścina faktycznie istnieje i co najważniejsze -- jest sfotografowana w Google Street Maps. Pojawiły się nawet plotki, że koń jest w tym samym budynku, z którego w trakcie swojej kampanii prezydenckiej przemawiał sam Abraham Lincoln. Porównując scenerię z wielu różnych ujęć, w końcu można znaleźć miejsce, gdzie znajduje się omawiany koń. [Oto ono](https://www.google.pl/maps/@42.4168576,-90.4268581,3a,75y,302.76h,93.82t/data=!3m6!1e1!3m4!1s47ehkq3FHoWp6euC4gvJWQ!2e0!7i13312!8i6656!6m1!1e1?hl=pl).
+
+214 N Main Street, Galena w stanie Illinois. Zdjęcie na mapach Google pochodzi z 2013 roku, ale na starszej wersji z 2007 koń widoczny jest w tej samej pozycji.
+
+No dobrze, znalezienie lokalizacji przybliża nas do rozwiązania zagadki, ale nadal nie daje odpowiedzi, o co chodzi z tym koniem? Sprawne oko dostrzeże, że na parterze budynku, w którym mieści się figura konia, widnieje szyld sklepowy "vintaj earth". Zapytanie w wyszukiwarce internetowej wskazuje na sklep o obecnej nazwie "Bella Vintaj". Adres się zgadza, to lokalny zakład jubilerski, ale ma swoją stronę internetową. Na dole strony widnieje link, przenoszący nas do skrzynki mailowej "customer care". Amerykanie to pomocni ludzie, dlaczego by więc nie zapytać o konia jego sąsiadów?
+
+Ad fontes.JPG wystosowało do przedstawicieli Bella Vintaj maila z zapytaniem o historię figury oraz kontakt do właściciela posesji. Oto odpowiedź, jaką otrzymano:
+
+"Przez nas wynajmowane są parter i pierwsze piętro, drugie i trzecie piętro należą do właściciela budynku. Kolekcjonuje on mnóstwo antyków, figura konia stoi w tym miejscu od lat. Przykro mi, ale nie mamy więcej informacji na ten temat. Galena to bardzo historyczne miejsce w Illinois. Obecnie to cisze i przytulne miasteczko z piękną Main Street, przy której otwartych jest mnóstwo sklepów z antykami i lokalnym rękodzielnictwem. Galena była swego czasu konkurentem dla Chicago pod względem przemysłu i rozmiaru, jest znana także jako miejsce narodzin Generała Granta. Dzisiaj to harmonijne i urocze miejsce cieszące się upodobaniem zarówno wśród turystów, jak i lokalnych mieszkańców."
+
+W imieniu swoim oraz wszystkich internetowych szperaczy dziękujemy Melissie z Bella Vintaj za udzielone informacje. A więc po prostu fan staroci zrobił sobie z mieszkania magazyn, przypadkowo (a może i celowo) ustawiając figurę białego konia przed oknem wychodzącym wprost na reprezentatywną ulicę przytulnego miasteczka. Ku uciesze wielu przechodniów.
+
+Case closed.
+-------
+
+* [Strona główna sklepu Bella Vintaj](http://www.bellavintaj.com/default.asp)
+* [Strona Bella Vintaj na Facebooku](https://www.facebook.com/vintajjewelryco/)

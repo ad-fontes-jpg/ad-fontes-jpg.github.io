@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "2017-01-27"
+---
+
+![](/assets/2017-01-27.jpg)
+
+"Nie mam pojęcia, jak to działa, ale działa zadziwiająco trafnie. Przeczytaj pełny opis zanim spojrzysz na obrazek.
+
+Załączone zdjęcie przedstawia dwa identyczne delfiny. Zostało zastosowane w badaniach dotyczących poziomu stresu prowadzonych w St. Mary's Hospital. Spójrz na dwa delfiny wyskakujące z wody. Delfiny te są identyczne. Dogłębne studia pokazały, że pomimo identyczności delfinów, człowiek zestresowany zaczyna dostrzegać między nimi różnice. Jeśli badany dostrzega wiele różnic, oznacza to, że doświadcza ogromnego stresu. Spójrz na tę fotografię -- jeśli znajdziesz jedną lub dwie różnice, może powinieneś rozważyć urlop."
+
+Mail o powyżej zaprezentowanej treści wraz z dołączonym niżej obrazkiem znany jest w sieci pod nazwą "Dolphin stress test" i był popularnym "wirusem internetowymi" przeszło 10 lat temu. Dzisiaj takie zjawisko nazwane by było "wiralem" albo (o zgrozo!) "memem". Nie jest znane pochodzenie testu, ale po treści i formie można zgadywać, że rozwijało się najpierw w środowiskach pracowniczych, by rozprzestrzenić się później w sferze niezawodowej. Możemy jednak zidentyfikować autora grafiki.
+
+Jest nim Douglas M. Martin, grafik i programista amerykańskiego pochodzenia. Związany z wczesną siecią od lat 80., na początku XX wieku zajmował się prowadzeniem szkoleń z zakresu programów graficznych we wschodniej Azji. W 2003 roku pracował w Bangkoku i wkrótce czekał go ślub z jego tajską narzeczoną. Grafika ta miała symbolizować ich związek -- on, krowa na morzu, trochę nie w swoim środowisku, ale za to u boku z pełnym gracji delfinem (narzeczoną).
+
+Martin pracował także dla korporacji, może właśnie w jednej z nich zaczęła się historia "stress testu". Zdjęcie dość szybko zaczęło żyć własnym życiem, aż do 2012 pojawiały się kolejne edycje przerobionych zdjęć krowy i delfina. Zbiór najlepszych z nich można podziwiać na iście vintige'owej stronie Douglasa, który to od dawna niczego nowego do sieci nie wrzucił. A jego witryna jest za to przepięknym wehikułem czasu do ery, gdzie znajomość HTML-a była czymś doprawdy godnym podziwu. Na stronie tej można znaleźć charakterystyczne dla tego typu elementów prywatne zdjęcia rodzinne i "swobodną twórczość".
+
+No dobrze, fotomontaż fotomontażem, ale co z elementami składowymi? Autor zdjęcia krowy byłby trudny do odnalezienia, ale znany jest autor zdjęcia delfina, a w zasadzie delfinów. Zdjęcie przedstawiające dwa butelkonose ssaki (w oryginale faktycznie w miejscu krowy jest drugi delfin) wykonała Gail Melville Shumway. Shumway od 1985 roku specjalizuje się w fotografowaniu fauny, a do jej najpopularniejszych ujęć zaliczają się właśnie zdjęcia delfinów oraz motyli. Od lat współpracująca z National Geographic, jej zbiorami zarządza GettyImages. Pomimo wielu sukcesów zawodowych i kunsztu, kiedy chce się w wyszukiwarkach znaleźć trochę informacji o fotografii dwóch delfinów, prawie zawsze wyskakuje wersja... Douglasa Martina, której to jest ponad 1000 mirrorów.
+
+Martin przyznał na swojej stronie, że fotomontaż dawno stracił z nim więź autorską. Jeżeli jednak ktoś czuje taką potrzebę i chce wykorzystać tę grafikę, może napisać o udzielnie licencji na specjalny adres do Douglasa, zawarty na jego stronie o "Krowie i delfinie". Może odpowie...
+
+-------
+* [Strona Douglasa M. Martina o "Krowie i delfinie"](http://www.martinsgarden.com/dolphinandcow.html)
+* [Prywatna strona Douglasa M. Martina (uprzedzam ściszyć głośność)](http://www.martinsgarden.com/)
+* [Strona Gaili Shumway](http://www.gailshumway.com/)

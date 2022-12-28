@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2017-01-23"
+---
+
+![](/assets/2017-01-23.jpg)
+
+"Facet to świnia" -- śpiewał Big Cyc w swojej swego czasu całkiem popularnej piosence. Charakterystyczny motyw ustawionych w jednym rzędzie, w analogicznej pozycji, z bocznego profilu chronologicznie następujących po sobie ogniw ewolucji Homo sapiens jest bardzo wdzięcznym materiałem do wszelkiego rodzaju interpretacji, mniej lub bardziej zabawnych. Przedstawiona niżej grafika nie była jedyna, jednak porządne wykonanie, dbałość o detale (kałasznikow, paczka z McDonald's) i dobra puenta sprawiły, że dzisiaj rysunek ten doczekał się ok. 1,5 tys. mirrorów w sieci we wszystkich większych regionach językowych Internetu.
+
+Paradoksalnie komputerowy rysunek autorstwa kanadyjskiego artysty z Montrealu, Patricka Boivina, powstał przez przypadek. W zamyśle miała to być animacja, która po prostu nie wyszła. Została więc w 2005 roku opublikowana na ówczesnym CG Networks, dzisiaj CG Society, na którym w tym czasie Boivin się udzielał. To stosunkowo mało popularny portal dla artystów tworzących grafikę komputerową, który, zważywszy na ilość i jakość posiadanych zasobów graficznych, wywarł nikły wpływ na kulturę internetową. I chociaż oryginalnie, jak pokazano poniżej, do grafiki doczepiona była stopka informująca o autorstwie, pochodzeniu i prawach autorskich, rozprzestrzeniający rysunek internauci szybko usunęli zbędny w ich mniemaniu element albo, co gorsza, dodawali własne znaki wodne (i takie wersje są najliczniej rozpowszechnione w sieci). Co ciekawe, CG Networks jako bogata marka współpracująca chociażby z Nvidią, do tej pory trzyma serwery, na których zachował się oryginalny temat sprzed 12 lat, w którym Patrick przedstawia światu swoje dzieło.
+
+Patrick Boivin urodził się w 1975 roku, jest artystycznym samoukiem. Rysunek nie jest jego koronną dyscypliną, specjalizuje się w animacji. I jest w tym dobry -- do jego najsłynniejszych dzieł można zaliczyć serie animacji poklatkowych pojedynków czy bitew lalek przedstawiających sławne postacie popkultury (Czarna Wdowa z Marvela, Jaś Fasola, Batman, papież) albo filmy pełne efektów specjalnych z niemowlakami i dziećmi w rolach głównych. Jego najsłynniejszy film "Iron Baby" na YouTube'ie ma przeszło 71 mln wyświetleń. Doczekał się nawet własnego artykułu na anglojęzycznej Wikipedii.
+
+Patrick jest nadal czynnym zawodowo reżyserem, działającym zarówno na polu artystycznym, jak i komercyjnie tworzącym klipy reklamowe. Od dawna nie uczestniczy w życiu CG Society.
+
+-------
+* [Prezentacja Patricka Boivina na Woolf Flapin](http://woolflapin.com/talent/patrick-boivin/)
+* [Strona Patricka Boivina na YouTube'ie](https://www.youtube.com/user/PatrickBoivin)
+
