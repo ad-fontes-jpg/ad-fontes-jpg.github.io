@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "2017-01-02"
+---
+
+![](/assets/2017-01-02.png)
+
+Kiedy w Internecie ktoś głosi niestworzone rzeczy, których to rzekomo był świadkiem, zwykło się żądać dowodów utartą frazą "pics or it didn't happen". Ale są takie zdjęcia, które przedstawiają coś, co według wszelkiej logiki nie miało prawa się wydarzyć. A wyjaśnienie, kryjące się za takimi ujęciami, utwierdza wielu w przekonaniu, że jednak dziwny jest ten świat.
+
+Motyw kałuży, do której po pas wpada nieuświadomiony przechodzień, to znana scena komediowa. Ale to nie kadr fimowy. I to nie człowiek pływa w kałuży, tylko samochód. Ściślej, trzy samochody. A i tak kałuża jakoś podejrzanie duża.
+
+Opowiadając historię tego zdjęcia trzeba na początku stwierdzić pewną oczywistość, której większość odbiorców pewno się spodziewa. Zdjęcie to pochodzi z Rosji. Rosjanie kochają katastrofy komunikacyjne. Zaczęło się pragmatycznie, na początku chodziło o dokumentowanie zdarzeń na potrzeby potencjalnych procesów sądowych, później przerodziło się to w swoiste hobby -- w 2017 roku można spotkać bogate w zasoby rosyjskojęzyczne portale zbierające filmy i zdjęcia z wypadków drogowych. Powyższe zdjęcie zostało jednak wykonane nie przez poszkodowanego, lecz przez funkcjonariusza państwowego. A pochodzi ono dalekiej Samary.
+
+W 2002 roku w Samarze, szóstym co do wielkości mieście Rosji, funkcjonariusze Państwowej Inspekcji Bezpieczeństwa Ruchu Drogowego zostali wezwani do nietypowego zgłoszenia. Ni z tego, ni z owego, na parkingu zatonęły 3 samochody. Trzeba było dźwigu i pomocy nurków, żeby wydobyć pojazdy. Ale skąd tam woda? Okazało się, że awarii uległ biegnący pod parkingiem wodociąg. Zbierająca się woda podmyła w końcu grunt, zaciągając za sobą w odmęty stojące na parkingu auta. Oględziny wykazały, że rurociąg wykonany był wadliwie, bez odpowiednich zabezpieczeń. Biegł bezpośrednio pod zaparkowanymi na gołej ziemi samochodami. A i parking sam też był nielegalny.
+
+Sąd zasądził, że odszkodowanie za straty ma wypłacić właściciel parkingu. Funkcjonariusze specyficznej, lokalnej drogówki zrobili rutynowe fotografie i zgodnie z procedurą zamieścili je w swojej kronice na stronie internetowej. To wystarczyło. W głębokiej Rosji za wiele rzeczy się nie dzieje, toteż wieść o samochodach w kałuży na parkingu szybko rozeszła się najpierw w lokalnych dziennikach (pierwsza była miejscowa telewizja "Samara"), a później w tytułach ogólnokrajowych. Zdjęcie zyskało sympatię rodzimych internautów, a ci zawlekli fotografię na Zachód.
+
+Sam autor, z imienia i nazwiska, nie jest znany. Zgodnie jednak z ówczesną polityką Inspekcji, wolno rozpowszechniać bez ograniczeń materiały pochodzące z jej strony pod warunkiem podania źródła. Sama organizacja kilka lat temu zmieniała serwery i gruntownie przebudowała swój portal internetowy, na próżno szukać tam pokazanego zdjęcia (ujęć było więcej, co najmniej 3). Jeszcze kilka lat temu możliwe było odwiedzenie oryginalnej notki w kronice za pomocą serwisu archiwizującego archive.org -- obecnie jest to niemożliwe, poprzez zastosowanie przez właściciela domeny pliku robots.txt (największego wroga wszystkich internetowych szperaczy).
+
+----
+* [Strona Państwowej Inspekcji Bezpieczeństwa Transportu Drogowego w Samarze](http://www.gibdd.ru/r/63/news/)
